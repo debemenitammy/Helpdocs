@@ -1,0 +1,16 @@
+/*
+
+Add styles or override variables from the theme here.
+
+*/
+
+.td-navbar, .td-box--primary {
+  background-color: rgb(68, 2, 68) !important;
+}
+.navbar-bg-onscroll {
+  background-color: rgb(68, 2, 68) !important;
+}
+
+.td-arrow-down::before {
+  border: rgb(68, 2, 68) !important;
+}
